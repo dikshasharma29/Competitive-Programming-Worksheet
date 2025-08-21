@@ -40,7 +40,7 @@ python DivisibleBy7.py
 
 🦋 Contributors
 
-💖 Diksha Sharma – Repo Owner & Happy Coder ✨
+💖 Diksha Sharma (Mam) – Repo Owner & Happy Coder ✨
 💖 Codes inspired by our class practice sessions 🌼
 
 🌸 A Little Note
