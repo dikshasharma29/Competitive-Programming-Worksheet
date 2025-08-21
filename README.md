@@ -52,7 +52,9 @@ It’ll make my coding journey even brighter 🌈✨
 
 ---
 
-This version feels more **cute + personal + decorative**, with soft emojis 🌸🎀✨ and friendly wording.  
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1e3a8a?style=for-the-badge&logo=python&logoColor=white) 
+![Happy Coding](https://img.shields.io/badge/Happy-Coding-2563eb?style=for-the-badge&logo=smiley&logoColor=white) 
+![Open Source](https://img.shields.io/badge/Open%20Source-0ea5e9?style=for-the-badge&logo=github&logoColor=white) 
+![Last Commit](https://img.shields.io/github/last-commit/dikshasharma29/Competitive-Programming-Worksheet?color=1e40af&style=for-the-badge)  
 
-👉 Do you want me to also add **pastel shields.io badges** (like "Made with Python 🐍", "Happy Coding 🌸", "Open Source 💖") at the top for extra sweetness?
 
